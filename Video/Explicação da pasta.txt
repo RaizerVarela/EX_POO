@@ -1,3 +1,3 @@
 Nesta pasta se encontram códigos explicando sobre JDBC (Inserir, Alualizar e Deletar dados).
 
-Link para o vídeo: 
+Link para o vídeo: https://www.youtube.com/watch?v=ltuxk_ulUPo
