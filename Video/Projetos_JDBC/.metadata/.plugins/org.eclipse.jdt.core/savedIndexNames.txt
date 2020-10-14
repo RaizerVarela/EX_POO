@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Raize\Desktop\VIDEO\.metadata\.plugins\org.eclipse.jdt.core
+4169191428.index
