@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>aulas.aula4.exercicios.petshop</OriginalElement>
+  <nodes>
+    <node x="327.4028571428571" y="0.0">aulas.aula4.exercicios.petshop.Animal</node>
+    <node x="232.99999999999997" y="853.0">aulas.aula4.exercicios.petshop.Veterinario</node>
+    <node x="0.0" y="842.0">aulas.aula4.exercicios.petshop.Doenca</node>
+    <node x="311.5" y="1328.0">aulas.aula4.exercicios.petshop.Teste</node>
+    <node x="323.3328571428571" y="388.0">aulas.aula4.exercicios.petshop.Dono</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="aulas.aula4.exercicios.petshop.Veterinario" target="aulas.aula4.exercicios.petshop.Animal">
+      <point x="-51.0" y="-202.0" />
+      <point x="284.0" y="363.0" />
+      <point x="347.7028571428571" y="363.0" />
+      <point x="-81.2" y="169.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.petshop.Teste" target="aulas.aula4.exercicios.petshop.Veterinario">
+      <point x="-21.285714285714334" y="-27.0" />
+      <point x="364.71428571428567" y="1288.0" />
+      <point x="284.0" y="1288.0" />
+      <point x="-51.0" y="202.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.petshop.Teste" target="aulas.aula4.exercicios.petshop.Doenca">
+      <point x="-42.57142857142861" y="-27.0" />
+      <point x="343.42857142857133" y="1298.0" />
+      <point x="159.75" y="1298.0" />
+      <point x="53.25" y="213.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.petshop.Teste" target="aulas.aula4.exercicios.petshop.Animal">
+      <point x="63.85714285714283" y="-27.0" />
+      <point x="449.8571428571428" y="1308.0" />
+      <point x="549.8328571428572" y="1308.0" />
+      <point x="549.8328571428572" y="363.0" />
+      <point x="510.1028571428571" y="363.0" />
+      <point x="81.19999999999996" y="169.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.petshop.Teste" target="aulas.aula4.exercicios.petshop.Dono">
+      <point x="42.571428571428555" y="-27.0" />
+      <point x="428.57142857142856" y="1298.0" />
+      <point x="475.82964285714286" y="1298.0" />
+      <point x="475.82964285714286" y="817.0" />
+      <point x="503.3328571428571" y="817.0" />
+      <point x="72.0" y="202.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.petshop.Dono" target="aulas.aula4.exercicios.petshop.Animal">
+      <point x="72.0" y="-202.0" />
+      <point x="503.3328571428571" y="363.0" />
+      <point x="469.50285714285707" y="363.0" />
+      <point x="40.599999999999966" y="169.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.petshop.Veterinario" target="aulas.aula4.exercicios.petshop.Dono">
+      <point x="51.0" y="-202.0" />
+      <point x="386.0" y="817.0" />
+      <point x="359.3328571428571" y="817.0" />
+      <point x="-72.0" y="202.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.42193548387096774" x="617.5" y="755.0" />
+  <SelectedNodes>
+    <node>aulas.aula4.exercicios.petshop.Animal</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

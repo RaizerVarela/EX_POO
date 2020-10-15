@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>aulas.aula5.exercicios</OriginalElement>
+  <nodes>
+    <node x="302.0" y="493.0">aulas.aula5.exercicios.Principe</node>
+    <node x="-4.0" y="213.0">aulas.aula5.exercicios.Diplomata</node>
+    <node x="508.0" y="174.0">aulas.aula5.exercicios.Soldado</node>
+    <node x="116.0" y="94.0">aulas.aula5.exercicios.Bispo</node>
+    <node x="-4.0" y="333.0">aulas.aula5.exercicios.Rainha</node>
+    <node x="106.0" y="-27.0">aulas.aula5.exercicios.Padre</node>
+    <node x="285.5" y="93.0">aulas.aula5.exercicios.Conselheiro</node>
+    <node x="306.0" y="-27.0">aulas.aula5.exercicios.Fiel</node>
+    <node x="100.0" y="493.0">aulas.aula5.exercicios.Cavaleiro</node>
+    <node x="636.0" y="334.0">aulas.aula5.exercicios.Conde</node>
+    <node x="272.0" y="301.0">aulas.aula5.exercicios.Nobre</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="aulas.aula5.exercicios.Rainha" target="aulas.aula5.exercicios.Nobre">
+      <point x="84.0" y="0.0" />
+      <point x="-88.0" y="0.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Nobre" target="aulas.aula5.exercicios.Conselheiro">
+      <point x="0.0" y="-59.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Nobre" target="aulas.aula5.exercicios.Soldado">
+      <point x="88.0" y="-40.0" />
+      <point x="560.0" y="320.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Conselheiro" target="aulas.aula5.exercicios.Bispo">
+      <point x="-74.5" y="0.0" />
+      <point x="44.0" y="0.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Bispo" target="aulas.aula5.exercicios.Padre">
+      <point x="0.0" y="-26.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Rainha" target="aulas.aula5.exercicios.Diplomata">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Principe" target="aulas.aula5.exercicios.Nobre">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Padre" target="aulas.aula5.exercicios.Fiel">
+      <point x="54.0" y="0.0" />
+      <point x="-54.0" y="0.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Conde" target="aulas.aula5.exercicios.Nobre">
+      <point x="-44.0" y="0.0" />
+      <point x="88.0" y="0.0" />
+    </edge>
+    <edge source="aulas.aula5.exercicios.Principe" target="aulas.aula5.exercicios.Cavaleiro">
+      <point x="-58.0" y="0.0" />
+      <point x="60.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal" zoom="1.0" x="360.0" y="260.0" />
+  <SelectedNodes>
+    <node>aulas.aula5.exercicios.Nobre</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

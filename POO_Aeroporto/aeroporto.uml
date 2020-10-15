@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>aulas.aula4.exercicios.aeroporto</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">aulas.aula4.exercicios.aeroporto.Aeroporto</node>
+    <node x="277.18906250000003" y="0.0">aulas.aula4.exercicios.aeroporto.Aeronave</node>
+    <node x="215.34375000000003" y="818.0">aulas.aula4.exercicios.aeroporto.Main</node>
+    <node x="187.7428125" y="532.0">aulas.aula4.exercicios.aeroporto.Passageiro</node>
+    <node x="351.09531250000003" y="276.0">aulas.aula4.exercicios.aeroporto.Piloto</node>
+    <node x="119.86781250000001" y="287.0">aulas.aula4.exercicios.aeroporto.Voo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="aulas.aula4.exercicios.aeroporto.Passageiro" target="aulas.aula4.exercicios.aeroporto.Voo">
+      <point x="-72.375" y="-103.0" />
+      <point x="211.8678125" y="507.0" />
+      <point x="215.4928125" y="507.0" />
+      <point x="19.125" y="92.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Main" target="aulas.aula4.exercicios.aeroporto.Passageiro">
+      <point x="7.449999999999989" y="-27.0" />
+      <point x="297.29375000000005" y="758.0" />
+      <point x="332.4928125" y="758.0" />
+      <point x="48.25" y="103.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Main" target="aulas.aula4.exercicios.aeroporto.Voo">
+      <point x="-37.25000000000003" y="-27.0" />
+      <point x="252.59375" y="778.0" />
+      <point x="151.0796875" y="778.0" />
+      <point x="151.0796875" y="507.0" />
+      <point x="138.9928125" y="507.0" />
+      <point x="-57.375" y="92.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Main" target="aulas.aula4.exercicios.aeroporto.Piloto">
+      <point x="22.350000000000023" y="-27.0" />
+      <point x="312.19375" y="768.0" />
+      <point x="410.90625" y="768.0" />
+      <point x="410.90625" y="507.0" />
+      <point x="384.59531250000003" y="507.0" />
+      <point x="-33.5" y="103.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Voo" target="aulas.aula4.exercicios.aeroporto.Aeroporto">
+      <point x="-57.375" y="-92.0" />
+      <point x="138.9928125" y="256.0" />
+      <point x="133.125" y="256.0" />
+      <point x="26.625" y="103.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Main" target="aulas.aula4.exercicios.aeroporto.Aeroporto">
+      <point x="-52.150000000000034" y="-27.0" />
+      <point x="237.69375" y="788.0" />
+      <point x="94.2046875" y="788.0" />
+      <point x="94.2046875" y="246.0" />
+      <point x="79.875" y="246.0" />
+      <point x="-26.625" y="103.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Main" target="aulas.aula4.exercicios.aeroporto.Aeronave">
+      <point x="52.14999999999998" y="-27.0" />
+      <point x="341.99375" y="788.0" />
+      <point x="495.59531250000003" y="788.0" />
+      <point x="495.59531250000003" y="236.0" />
+      <point x="401.50156250000003" y="236.0" />
+      <point x="47.8125" y="103.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Voo" target="aulas.aula4.exercicios.aeroporto.Aeronave">
+      <point x="19.125" y="-92.0" />
+      <point x="215.4928125" y="246.0" />
+      <point x="286.75156250000003" y="246.0" />
+      <point x="-66.9375" y="103.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Piloto" target="aulas.aula4.exercicios.aeroporto.Aeronave">
+      <point x="-33.5" y="-103.0" />
+      <point x="384.59531250000003" y="256.0" />
+      <point x="363.25156250000003" y="256.0" />
+      <point x="9.5625" y="103.0" />
+    </edge>
+    <edge source="aulas.aula4.exercicios.aeroporto.Passageiro" target="aulas.aula4.exercicios.aeroporto.Aeronave">
+      <point x="24.125" y="-103.0" />
+      <point x="308.3678125" y="507.0" />
+      <point x="315.65781250000003" y="507.0" />
+      <point x="315.65781250000003" y="256.0" />
+      <point x="325.00156250000003" y="256.0" />
+      <point x="-28.6875" y="103.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="624.0" y="443.0" />
+  <SelectedNodes>
+    <node>aulas.aula4.exercicios.aeroporto.Piloto</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
